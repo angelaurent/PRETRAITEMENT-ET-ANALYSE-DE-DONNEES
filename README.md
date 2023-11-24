@@ -10,6 +10,10 @@ client, par zone géographique
 3. Analyser l’évolution de la facturation et le recouvrement (paiement des facture) selon
 le type de client, selon la qualité de client, selon les zones géographiques et selon les
 tranches de facturation, de façon globale et selon le FDE
+4. Vous expliquerez et commenterez de façon de non-supervisée la relation liant les différentes variables y compris avec fde.
+— A travers vos recherches établir le ou les relations déterministes liant le fde au variables fournies.
+-Établir une relation non déterministe entre le fde et les variables vous motiverez le choix de la méthode et des variables. Vous optimiserez les paramètres de la méthode choisie.
+— Enfin à travers vos analyses vous déterminez les facteurs de dégradation du fde.
 
 ##MANIPULATION DE NOTRE JEU DE DONNEES AVEC PYTHON
 #DESCRIPTION DU JEU DE DONNEES
