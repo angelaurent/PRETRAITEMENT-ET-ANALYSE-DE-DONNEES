@@ -1,9 +1,16 @@
 # PRETRAITEMENT ET ANALYSE DE DONNEES AVEC PYTHON AFIN DE COMPRENDRE LA RELATION ENTRE LA VARIABLE CIBLE ET LES AUTRES VARIABLES
- 
- *jeu de donnees de 2.911.541 observations et 35 variables.
 
-*nettoyage du jeu de donnees
+# C'EST UN PROJET DE FIN DE NIVEAU AVEC CE TITRE: ETUDE DES FACTEURS RESPONSABLES DE LA BAISSE CONTINUE DES REVENUES DU FDE (fond de developpement d'eau potable)
 
-*analyse univariées
+#DESCRIPTION DU PROBLEME
+Ce projet s’inscrit dans un contexte où les revenus du FDE baissent malgré l'augmentation de la production d'eau suite aux investissements
 
-*analyse multivariées
+##MANIPULATION DE NOTRE JEU DE DONNEES AVEC PYTHON
+#DESCRIPTION DU JEU DE DONNEES
+ jeu de donnees de 2.911.541 observations et 35 variables dont 13 variables quantitatives, 10 variables qualitatives, 2 variables categorielle
+
+#NETTOYAGE DU JEU DE DONNEES
+#ANALYSE UNIVARIEE
+#ANALYSE MULTIVARIEE
+#ACP POUR VISUALISER LA STRUCTURE DE CORRELATION DES VARIABLES
+
