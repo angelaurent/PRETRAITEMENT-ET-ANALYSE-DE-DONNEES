@@ -4,7 +4,7 @@
 Ce projet s’inscrit dans un contexte où les revenus du FDE baissent malgré l'augmentation de la production d'eau suite aux investissements
 
 #OBJECTIFS DU PROJET 
-1. Procéder à la segmentation des clients par ancienneté, par volume unitaire de consommation, par la qualité de paiement de ses factures
+1. Procéder à la segmentation des clients par ancienneté, par volume unitaire de consommation, par la qualité de paiement de ses factures
 2. La granulométrie de l’analyse pourra se faire par type démission, par la catégorie de
 client, par zone géographique
 3. Analyser l’évolution de la facturation et le recouvrement (paiement des facture) selon
